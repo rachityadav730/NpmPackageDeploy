@@ -1,0 +1,24 @@
+{
+  "name": "vedic_math",
+  "version": "1.0.0",
+  "description": "this is basically for optimize airthmatic operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachityadav730/NpmPackageDeploy.git"
+  },
+  "keywords": [
+    "Vedic",
+    "math",
+    "Math"
+  ],
+  "author": "Rachit yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachityadav730/NpmPackageDeploy/issues"
+  },
+  "homepage": "https://github.com/rachityadav730/NpmPackageDeploy#readme"
+}
